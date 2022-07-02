@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JonathanRojas01
 - 👀 I’m interested in frontend
 - 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on react projects
 - 📫 How to reach me ...
 
 <!---
